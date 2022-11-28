@@ -1,5 +1,5 @@
 # MagicGlove ✨
-The Magic Glove is an assistive device for people who are blind or visually impaired. Created for Hack Western 9. Devpost: https://devpost.com/software/the-magic-glove
+The Magic Glove is an assistive device for people who are blind or visually impaired. Created for Hack Western 9. Devpost with demo video: https://devpost.com/software/the-magic-glove
 ![IMG_3535](https://user-images.githubusercontent.com/89555654/203159920-41dd3509-0d04-4b9d-8423-9174e8faa01a.JPG)
 ![IMG_3536](https://user-images.githubusercontent.com/89555654/203160206-db8f898d-c922-4e84-8d27-fd1d00c019b0.JPG)
 ![IMG_3542](https://user-images.githubusercontent.com/89555654/203159928-c3700eb8-cbf9-4d1c-96e6-07e917bef8ec.JPG)
